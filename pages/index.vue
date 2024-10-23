@@ -1,8 +1,6 @@
 <template>
-  <div id="home" class="font-sans h-screen flex flex-col justify-between">
-    <div
-      class="hero-container text-center flex-grow flex flex-col justify-center"
-    >
+  <div id="home" class="font-sans h-screen flex flex-col justify-center">
+    <div class="hero-container text-center">
       <h1 class="text-6xl font-normal tracking-tight py-2">
         <span class="font-bold">Scale</span> Your Web!
       </h1>
@@ -24,11 +22,7 @@
         target="_blank"
         rel="noopener"
       >
-        <img
-          src="https://www.spotsalary.com/images/logo_light.png"
-          alt="Spot Salary"
-          class="inline-block h-8"
-        />
+        Find Salary using AI
       </a>
     </div>
   </div>
