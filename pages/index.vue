@@ -16,15 +16,6 @@
         Contact Us
       </a>
     </div>
-    <div class="text-center py-4">
-      <a
-        href="https://www.spotsalary.com?utm_source=alignwebs"
-        target="_blank"
-        rel="noopener"
-      >
-        Find Salary using AI
-      </a>
-    </div>
   </div>
 </template>
 
