@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Allow major AI crawlers (opt-in for AI search indexing)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+Sitemap: https://www.alignwebs.com/sitemap.xml

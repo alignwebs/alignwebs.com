@@ -1,0 +1,21 @@
+# ALiGNWEBS
+
+ALiGNWEBS is a web development agency specialising in custom web application development
+and GenAI development for enterprise clients.
+
+## Services
+
+- **Custom Web Application Development**: Mission-critical platforms tailored to complex enterprise workflows, built for thousands of concurrent users with enterprise-grade reliability and security.
+- **GenAI Development & LLM Integration**: Embed conversational agents, semantic search, document intelligence, and autonomous workflows directly into enterprise products.
+- **High-Scale Cloud Architecture**: Refactor monoliths into scalable microservices and cloud-native architectures designed for millions of requests with single-digit millisecond latency.
+- **Design Systems & UI Engineering**: Cohesive design systems and component libraries that accelerate product development while maintaining pixel-perfect quality.
+- **API & Platform Engineering**: Robust REST and GraphQL APIs, developer portals, and integration layers that power product ecosystems reliably.
+
+## About
+
+ALiGNWEBS has 10+ years of enterprise software experience, has supported 50+ startups, and maintains a 98% on-time project delivery rate. The agency focuses on full-cycle delivery: discovery, architecture, design, engineering, and launch.
+
+## Contact
+
+- Website: https://www.alignwebs.com
+- LinkedIn: https://www.linkedin.com/in/gulzar-ahmed
